@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/@lewmas9152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lewmas9152" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/samwel-njuguna-1797a6240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samwel-njuguna" height="30" width="40" /></a>
-<a href="https://fb.com/patsam njugush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="patsam njugush" height="30" width="40" /></a>
+<a href="https://www.facebook.com/samwel.mugo.1690/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="patsam njugush" height="30" width="40" /></a>
 <a href="https://instagram.com/patsam_njugush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patsam_njugush" height="30" width="40" /></a>
 </p>
 
