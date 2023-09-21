@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img  align = "right" alt="coding" src="https://github.com/lewmas9152/lewmas9152/blob/main/github_img.jpg">
+<img  align = "right" width="100px" height = "100px"alt="coding" src="https://github.com/lewmas9152/lewmas9152/blob/main/github_img.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lewmas9152&label=Profile%20views&color=0e75b6&style=flat" alt="lewmas9152" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lewmas9152" alt="lewmas9152" /></a> </p>
