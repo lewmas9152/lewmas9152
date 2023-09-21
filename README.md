@@ -1,6 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A passionate frontend developer</h3>
+
+<img   width ="100%" src = "https://github.com/lewmas9152/lewmas9152/blob/main/img.jpeg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lewmas9152&label=Profile%20views&color=0e75b6&style=flat" alt="lewmas9152" /> </p>
 
