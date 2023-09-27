@@ -6,7 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lewmas9152&label=Profile%20views&color=0e75b6&style=flat" alt="lewmas9152" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lewmas9152" alt="lewmas9152" /></a> </p>
+
+<h3 align="left">🏆 Github Trophies:</h3>
+	<p align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=Lewmas9152&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%" />
+</p>
 <img  align = "right" alt="coding" src="https://github.com/lewmas9152/lewmas9152/blob/main/github_img.jpg">
 <p align="left"> <a href="https://twitter.com/@lewmas9152" target="blank"><img src="https://img.shields.io/twitter/follow/@lewmas9152?logo=twitter&style=for-the-badge" alt="@lewmas9152" /></a> </p>
 
