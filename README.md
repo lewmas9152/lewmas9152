@@ -13,7 +13,7 @@
 <img  align = "right" alt="coding" src="https://github.com/lewmas9152/lewmas9152/blob/main/github_img.jpg">
 <p align="left"> <a href="https://twitter.com/@lewmas9152" target="blank"><img src="https://img.shields.io/twitter/follow/@lewmas9152?logo=twitter&style=for-the-badge" alt="@lewmas9152" /></a> </p>
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 I’m currently learning **PYTHON**
 
 - 💬 Ask me about **react,HTML,CSS**
 
