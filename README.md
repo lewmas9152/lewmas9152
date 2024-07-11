@@ -18,7 +18,7 @@
 - 💬 Ask me about **react,HTML,CSS**
 
 - 📫 How to reach me **smnjuguna22@gmail.com**
-- My portfolio **https://smnjuguna22.wixsite.com/samwel-njuguna-web-d**
+- My portfolio **https://lewmas9152.github.io/portfolio/**
 
 - ⚡ Fun fact **I love politics**
 
